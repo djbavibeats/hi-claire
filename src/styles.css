@@ -139,6 +139,7 @@ html, body {
     
   .back > .card-content > .card-back-words-container > .card-description {
    font-size: 11px;
+   text-transform: none;
   }
   
    .marquee {
